@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+ .checked{
+  text-decoration: line-through;
+}
+ .main{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: #eee;
+} 
+/* .lable{
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  border: 1px solid #aaa;
+  background: #ddd;  */
+
+
+ /* input[type="checkbox"]{
+  display:none;
+}  */
